@@ -1,6 +1,6 @@
 {
   "title": "Kubernetes",
-  "time": "999 minutes",
+  "time": "300 minutes",
   "description": "Multi node Kubernetes cluster configured using Kubeadm",
   "details": {
     "steps": [
